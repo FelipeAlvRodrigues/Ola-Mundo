@@ -1,0 +1,5 @@
+h2 { color: blue }
+.destaque { color: green }
+article { color: black }
+aside h2 { color: red }
+article h2 { color: orange }
